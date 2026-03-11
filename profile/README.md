@@ -2,7 +2,13 @@
 
 Welcome to the Arch Browser organization!  
 
-Arch Browser is a fast, lightweight web browser built for Arch Linux. You can find the main repository here: [arch-browser](https://github.com/arch-browser/arch-browser)
+You can find the main repository here: [arch-browser](https://github.com/arch-browser/arch-browser)
+
+## About
+
+The Arch Browser organization manages and maintains all projects related to the Arch Browser ecosystem. Its purpose is to provide a central place for development, collaboration, and coordination of the browser and related tools.  
+
+This organization helps keep projects organized, ensures consistent standards across repositories, and makes it easier for contributors to get involved. It’s the official home for all source code, resources, and initiatives connected to Arch Browser.
 
 ## Contributing
 
